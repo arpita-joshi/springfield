@@ -234,11 +234,9 @@ h2{
 }
 .place{
   position: relative;
-  bottom: 90px;
+  bottom: 100px;
 }
-.head-page{
 
-}
 
 
 .container-feedback{
@@ -357,6 +355,7 @@ h2{
   text-align: justify;
   position: relative;
   left: 400px;
+  bottom: 30px;
   font-family: 'Roboto Slab', serif;
   font-display: block;
   font-size: 25px;
@@ -369,7 +368,13 @@ h2{
   left: 56px;
   bottom: 20px;
   font-weight: bold;
+  font-size: 30px;
 }
+.welcome{
+  font-size: 40px;
+  font-weight: bolder;
+}
+
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
